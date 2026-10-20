@@ -1,0 +1,3 @@
+[submodule "mm_specs"]
+	path = mm_specs
+	url = git@github.com:measure-map/specification.git
