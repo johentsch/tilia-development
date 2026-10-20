@@ -1,3 +1,6 @@
 [submodule "mm_specs"]
 	path = mm_specs
 	url = git@github.com:measure-map/specification.git
+[submodule "pyMeasureMap"]
+	path = pyMeasureMap
+	url = git@github.com:measure-map/pyMeasureMap.git
