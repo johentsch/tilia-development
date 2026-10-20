@@ -4,3 +4,7 @@
 [submodule "pyMeasureMap"]
 	path = pyMeasureMap
 	url = git@github.com:measure-map/pyMeasureMap.git
+[submodule "tilia-desktop"]
+	path = tilia-desktop
+	url = git@github.com:TimeLineAnnotator/desktop.git
+	branch = dev
