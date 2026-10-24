@@ -8,3 +8,6 @@
 	path = tilia-desktop
 	url = git@github.com:TimeLineAnnotator/desktop.git
 	branch = dev
+[submodule "TimeToShare"]
+	path = TimeToShare
+	url = git@github.com:TimeToAlign/TimeToShare.git
