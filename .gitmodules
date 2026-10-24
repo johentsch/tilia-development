@@ -11,3 +11,6 @@
 [submodule "TimeToShare"]
 	path = TimeToShare
 	url = git@github.com:TimeToAlign/TimeToShare.git
+[submodule "verovio"]
+	path = verovio
+	url = git@github.com:johentsch/verovio.git
